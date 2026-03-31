@@ -1,0 +1,33 @@
+Movie_Title,Release_Year,Genre,Director,Certificate,Language,Runtime_Min,IMDB_Rating,Metascore,Votes,Gross_Revenue_M,Budget_M
+The Dark Knight,2000,Horror,Martin Scorsese,PG-13,Korean,119,8.8,73,321836,0.8,67
+Inception,2013,Sci-Fi,Christopher Nolan,PG,,119,8.9,58,2145505,85.8,184.8
+Interstellar,2022,Comedy,Ridley Scott,PG-13,Korean,117,4.5,73,2349435,64.8,98.3
+Parasite,2008,Thriller,Steven Spielberg,PG-13,French,,7.9,91,246769,30.1,161.8
+The Godfather,2004,Horror,Steven Spielberg,,Spanish,,6.9,67,1321741,15.3,162
+Pulp Fiction,2001,Drama,Quentin Tarantino,PG-13,French,190,7,,1096797,49.4,138.6
+The Shawshank Redemption,2022,Drama,Martin Scorsese,G,French,187,,28,1634398,,31.7
+Fight Club,2014,Romance,Wes Anderson,NC-17,Hindi,206,8.8,80,614685,46.8,210.5
+Goodfellas,2000,Drama,Martin Scorsese,PG,Japanese,125,7.2,69,1452107,,87
+The Matrix,2019,Horror,Jordan Peele,NC-17,Japanese,112,,,1361736,,54.8
+Forrest Gump,2012,Horror,David Fincher,PG,Spanish,91,7.7,69,1057293,54.2,19.8
+Schindler's List,2016,Sci-Fi,Christopher Nolan,PG,Hindi,157,8.1,,629879,428.1,151.8
+The Silence of the Lambs,2004,Action,Christopher Nolan,R,Japanese,156,,,73247,393.8,172.6
+Gladiator,2004,Animation,Martin Scorsese,R,Korean,96,7.2,73,1122876,34.8,14
+Avatar,2017,Drama,Steven Spielberg,PG-13,Japanese,118,7.3,90,1372905,82.5,132.9
+The Avengers,2014,Romance,Steven Spielberg,NC-17,Korean,,7.9,60,1817640,43,64.4
+Joker,1997,Drama,Wes Anderson,PG,Spanish,132,7,55,1335160,40.2,164.8
+1917,2001,Sci-Fi,Jordan Peele,PG-13,French,203,7.2,60,1660908,4.5,51.8
+Knives Out,2017,Horror,Christopher Nolan,G,French,107,6.4,,1936222,112.9,175.8
+Get Out,1996,Thriller,Wes Anderson,PG,Japanese,146,6.3,72,1028732,83.8,102.8
+Mad Max: Fury Road,2015,Drama,Steven Spielberg,,Korean,172,8.2,60,1475472,,234.8
+The Grand Budapest Hotel,2014,Action,Wes Anderson,PG-13,English,121,8.9,75,98984,39.2,43
+Arrival,1995,Thriller,David Fincher,R,English,183,,,2450070,286.7,91.9
+Hereditary,2017,Sci-Fi,Steven Spielberg,,,128,7.6,82,2411864,,37.2
+Midsommar,2005,Drama,Denis Villeneuve,G,French,188,5.9,57,1554384,18.8,231.9
+Tenet,2023,Thriller,Jordan Peele,PG,Hindi,170,6.8,63,2083643,80.7,220.6
+Dune,1999,Drama,Ridley Scott,NC-17,French,175,6.7,62,2280919,509.3,71.9
+No Time to Die,1995,Romance,Christopher Nolan,PG-13,Hindi,119,8.9,46,1802126,33.3,168.4
+The Batman,2021,Sci-Fi,Quentin Tarantino,PG,Korean,149,7.6,72,186330,133.8,206.1
+Everything Everywhere,2014,Animation,David Fincher,R,Japanese,183,,71,1787095,,143.2
+,,,,,,,,,,,
+🔴 Red cells = Missing values (NaN) to be handled,,,,,,,,,,,
