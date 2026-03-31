@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 # Load dataset
-df = pd.read_csv("C:/Users/prani/Downloads/IMDB_Synthetic_Dataset.csv")
+df = pd.read_csv("IMDB_Synthetic_Dataset.csv")
 # -------------------------------
 # 1. Handling Missing Values
 print("\nMissing Values:\n")
