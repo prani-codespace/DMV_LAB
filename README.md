@@ -1,6 +1,6 @@
 Data Management and Visualization Practical
 The Aim of all the experiments are as follows:
-Lab 01:To draw a line chart where the inputs are already provided.
+Lab 01: To draw a line chart where the inputs are already provided.
 Lab 02a: To draw a histogram where the inputs are already provided.
 Lab 02b: To draw a histogram where the inputs are provided by users.
 Lab 03: To draw a line chart where the inputs are provided by the user.
